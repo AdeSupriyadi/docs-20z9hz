@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-v7zg04.pulaucuan.online/sitemap.xml
